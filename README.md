@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Jessie!
-I'm a computer science girlie looking to make a difference
+<h1 align="center">Hi 👋, I'm Jessie</h1>
+<h3 align="center">A computer science girlie looking to make a difference</h3>
 
 ## 🌟 About Me
 - **👩‍💻 Currently working on**: Learning Web Development, Twitter Sentiment Analysis
